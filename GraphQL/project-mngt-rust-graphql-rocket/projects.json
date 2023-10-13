@@ -1,0 +1,16 @@
+[
+    {
+        "_id": 1,
+        "owner_id": "1",
+        "name": "dhruv",
+        "description": "dhruv's todo list",
+        "status": "completed"
+    },
+    {
+        "_id": 2,
+        "owner_id": "2",
+        "name": "mahesh",
+        "description": "mahesh's todo list",
+        "status": "inprogress"
+    }
+]

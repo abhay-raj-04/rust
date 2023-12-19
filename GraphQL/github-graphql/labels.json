@@ -1,0 +1,47 @@
+[
+  {
+    "description": "Something isn't working",
+    "id": "LA_kwDOK5mdPc8AAAABePKKXA",
+    "name": "bug"
+  },
+  {
+    "description": "Improvements or additions to documentation",
+    "id": "LA_kwDOK5mdPc8AAAABePKKYQ",
+    "name": "documentation"
+  },
+  {
+    "description": "This issue or pull request already exists",
+    "id": "LA_kwDOK5mdPc8AAAABePKKZQ",
+    "name": "duplicate"
+  },
+  {
+    "description": "New feature or request",
+    "id": "LA_kwDOK5mdPc8AAAABePKKaQ",
+    "name": "enhancement"
+  },
+  {
+    "description": "Good for newcomers",
+    "id": "LA_kwDOK5mdPc8AAAABePKKcQ",
+    "name": "good first issue"
+  },
+  {
+    "description": "Extra attention is needed",
+    "id": "LA_kwDOK5mdPc8AAAABePKKbQ",
+    "name": "help wanted"
+  },
+  {
+    "description": "This doesn't seem right",
+    "id": "LA_kwDOK5mdPc8AAAABePKKdg",
+    "name": "invalid"
+  },
+  {
+    "description": "Further information is requested",
+    "id": "LA_kwDOK5mdPc8AAAABePKKfA",
+    "name": "question"
+  },
+  {
+    "description": "This will not be worked on",
+    "id": "LA_kwDOK5mdPc8AAAABePKKgw",
+    "name": "wontfix"
+  }
+]
